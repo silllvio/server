@@ -1,12 +1,41 @@
-{
-  "busca": [
-             "rate1":{ "id": 1, "tema": "Iphone","nota": 5},
-             "rate2":{ "id": 2, "tema": "Android","nota": 5},
-             "rate3":{ "id": 3, "tema": "Mané", "nota": 4},
-             "rate4":{ "id": 4, "tema": "Submarino10", "nota": 4},
-             "rate5":{ "id": 5, "tema": "Dinheiro", "nota": 5},
-             "rate6":{ "id": 6, "tema": "Show 3", "nota": 2}
-            ],
-  "profile": {"name": "typicode"}
+{  
+   "busca":[  
+      {  
+         "ListaRating":[  
+            {  
+               "id":1,
+               "tema":"Iphone",
+               "nota":5
+            },
+            {  
+               "id":2,
+               "tema":"Android",
+               "nota":5
+            },
+            {  
+               "id":3,
+               "tema":"Mané",
+               "nota":4
+            },
+            {  
+               "id":4,
+               "tema":"Submarino10",
+               "nota":4
+            },
+            {  
+               "id":5,
+               "tema":"Dinheiro",
+               "nota":5
+            },
+            {  
+               "id":6,
+               "tema":"Show 3",
+               "nota":2
+            }
+         ]
+      }
+   ],
+   "profile":{  
+      "name":"typicode"
+   }
 }
-
