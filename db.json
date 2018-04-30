@@ -1,67 +1,72 @@
-{  
-   "busca":[  
-      {
+[
+  {
     "ID": 1,
+    "CATEGORIA": "CARRO",
     "TEMA": "HONDA CITY",
     "OPINIAO_GERAL": "4,5",
     "OPINIAO_DO_DONO": "4,245",
     "OPINIAO_ESPECIALISTA": "4,5",
     "OPINIAO_SITES_ESPECIALIZADOS": "4,245",
-    "CRITICA": 4,
+    "CRITICA": "",
     "NOME": "Pedro",
     "COMENTARIOS": "Com certeza o principal ponto positivo é o consumo na cidade, atualmente estou fazendo 13km/l na gasolina aqui em São José dos Campos. Outro ponto positivo é economia em termos gerais, estou com o carro a quase 3 anos e só gastei com manutenção básica, o seguro é barato. O desempenho aqui na cidade é excelente. O porta-malas é muito bom. A direção elétrica é ótima, vc sente o carro na mão.",
     "NUVEM_DE_PALAVRAS": "Consumo; bonito;barulho;seguro; barato;"
   },
   {
     "ID": 2,
+    "CATEGORIA": "CARRO",
     "TEMA": "HONDA CITY",
     "OPINIAO_GERAL": "4,5",
     "OPINIAO_DO_DONO": "4,245",
     "OPINIAO_ESPECIALISTA": "4,5",
     "OPINIAO_SITES_ESPECIALIZADOS": "4,245",
-    "CRITICA": 4,
+    "CRITICA": "",
     "NOME": "Tiago",
     "COMENTARIOS": "Honda é uma marca excelente o City não deixa a desejar, bonito com bom espaço interno e de porta malas, adicionei uma central multimídia com câmera de ré e ficou perfeito.Desempenho excelente, já fiz 16.5 Km/l andando a 80Km, desempenho na cidade de 11 a 15 depende do motorista.",
     "NUVEM_DE_PALAVRAS": "Consumo; bonito;barulho;seguro; barato;"
   },
   {
     "ID": 3,
+    "CATEGORIA": "ELETRONICOS",
     "TEMA": "Jbl Xtreme",
     "OPINIAO_GERAL": 5,
     "OPINIAO_DO_DONO": 4,
     "OPINIAO_ESPECIALISTA": 4,
     "OPINIAO_SITES_ESPECIALIZADOS": 5,
-    "CRITICA": "4,5",
+    "CRITICA": "",
     "NOME": "Antonio",
     "COMENTARIOS": "A qualidade de som e acabamento da JBL Xtreme impressiona e daria 10 estrelas se pudesse. Os graves são extremos, de fato. Simplesmente não consigo determinar pontos negativos. A caixa acompanha transformador 19v bi-volt com 3 tipos de cabos de força que servem na maioria dos países (Brasil incluso). Eu costumava usar uma caixa bluetooth JAM PARTY, mas ela não chega aos pés da JBL Xtreme. A qualidade dos graves é impecável sem esquecer os agudos. Acompanha uma alça em nylon para portabilidade e, surpresa, uma caixinha JBL GO de 3W de potência - que nos EUA custa US$ 39,99... o que eu posso dizer mais?",
     "NUVEM_DE_PALAVRAS": "Bonita; Alta; boa duração;"
   },
   {
     "ID": 4,
+    "CATEGORIA": "ELETRONICOS",
     "TEMA": "Jbl Xtreme",
     "OPINIAO_GERAL": 5,
     "OPINIAO_DO_DONO": 4,
     "OPINIAO_ESPECIALISTA": 4,
     "OPINIAO_SITES_ESPECIALIZADOS": 5,
-    "CRITICA": 5,
+    "CRITICA": "",
     "NOME": "Anônimo",
     "COMENTARIOS": "Escolhi este caixa de som porque já conhecia a qualidade da marca e já havia feito uma avaliação do produto em uma loja física. Gostei muito da qualidade do som, com grave profundo e com grande potência. É quase inacreditável que tal qualidade de som saia de um equipamento com este tamanho. Não gostei do preço, acho que poderia ser mais barato, muito embora também acho que vale cada centavo. Recomendo para aquelas pessoas que não tem muito espaço em casa para grandes caixas de som ou para quem quer viajar e levar um som potente e de qualidade consigo. Para colocar no quarto é perfeito.",
     "NUVEM_DE_PALAVRAS": "Bonita; Alta; boa duração;Excelete;"
   },
   {
     "ID": 5,
+    "CATEGORIA": "ELETRONICOS",
     "TEMA": "Jbl Xtreme",
     "OPINIAO_GERAL": 5,
     "OPINIAO_DO_DONO": 4,
     "OPINIAO_ESPECIALISTA": 4,
     "OPINIAO_SITES_ESPECIALIZADOS": 5,
-    "CRITICA": "4,5",
+    "CRITICA": "",
     "NOME": "Ana",
     "COMENTARIOS": "A JBL Xtreme Speaker superou as expectativas! Excelente qualidade de som e mesmo com volume alto não há distorção no som!",
     "NUVEM_DE_PALAVRAS": "Bonita; Alta; boa duração;Excelete;"
   },
   {
     "ID": 6,
+    "CATEGORIA": "ELETRONICOS",
     "TEMA": "Galaxy s9",
     "OPINIAO_GERAL": "4,6",
     "OPINIAO_DO_DONO": 5,
@@ -74,22 +79,24 @@
   },
   {
     "ID": 7,
+    "CATEGORIA": "ELETRONICOS",
     "TEMA": "Galaxy s9",
     "OPINIAO_GERAL": "4,6",
     "OPINIAO_DO_DONO": 5,
     "OPINIAO_ESPECIALISTA": "4,6",
     "OPINIAO_SITES_ESPECIALIZADOS": 5,
-    "CRITICA": 4,
+    "CRITICA": "",
     "NOME": "Leila",
     "COMENTARIOS": "Ótimo produto. Recebido no prazo previsto, em ótimo estado. Recomendo",
     "NUVEM_DE_PALAVRAS": "Ótimo"
   },
   {
     "ID": 8,
+    "CATEGORIA": "FILMES",
     "TEMA": "Vingadores: Guerra Infinita",
     "OPINIAO_GERAL": 5,
-    "OPINIAO_DO_DONO": "4,5",
-    "OPINIAO_ESPECIALISTA": "4,6",
+    "OPINIAO_DO_DONO": "",
+    "OPINIAO_ESPECIALISTA": "",
     "OPINIAO_SITES_ESPECIALIZADOS": 4,
     "CRITICA": 4,
     "NOME": "Thiago",
@@ -98,18 +105,15 @@
   },
   {
     "ID": 9,
+    "CATEGORIA": "FILMES",
     "TEMA": "Vingadores: Guerra Infinita",
     "OPINIAO_GERAL": 5,
-    "OPINIAO_DO_DONO": "4,5",
-    "OPINIAO_ESPECIALISTA": "4,6",
+    "OPINIAO_DO_DONO": "",
+    "OPINIAO_ESPECIALISTA": "",
     "OPINIAO_SITES_ESPECIALIZADOS": 4,
     "CRITICA": 4,
     "NOME": "Zaire",
     "COMENTARIOS": "Apenas WOW, o Russo pregado, a mão de baixo de mim eles fizeram isso de novo. Parte por parte é interessante de assistir, algumas cenas me fazem chocar com alguma cena e me fazem querer socar as pessoas tão mal. Thanos é o melhor vilão que eu já vi. Ele não é apenas um vilão normal para matar um bando de pessoas, porque ele ama, mas sua motivação deixa claro por que ele quer fazer isso e a maioria das pessoas sabe que ele está coletando todas as pedras do infinito.\n\nUma das melhores partes é que a equipe do Guardian & Avengers, simplesmente incrível, cheia de humor, não consegue parar de rir assistindo a cena juntos. Pela primeira vez meu cérebro não pode processar o que vai acontecer em Avengers 4 realmente exagerar sobre isso.\n\nRealmente vale a pena assistir, se você não fãs da Marvel ou super-heróis fã este filme vale a pena assistir, realmente se divertir. É claro que todo filme bom sempre tem algum problema com isso, mas apenas a questão MINOR pode fechar os olhos e deixá-lo ir. Indo para assistir novamente em breve. Amor da Malásia.",
     "NUVEM_DE_PALAVRAS": "Bom"
   }
-   ],
-   "profile":{  
-      "name":"typicode"
-   }
-}
+]
